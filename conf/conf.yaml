@@ -1,0 +1,11 @@
+# 必改项：dashboard-server的服务地址
+base_url: "http://192.168.8.239:7005"
+
+# 必改项：nebula grapd连接信息
+#graphd_ip: "192.168.8.43"
+# graphd_port: 9669
+# graphd_username: "root"
+# graphd_password: "nebula"
+# graphd_encrypt_password: "QUzJAIt9y3ezpwI94QFNT1HA+DfMr1JUvmrNEDrlh3nTmDpaiVEJ03xCsK0Fc5Jj8NsAh3ehoZr/AaOSYoUNet4l2X6ykqPLpuG84ek1p0hKFY9VGKCtTdClcRfQmUL8revj0if6gj69kGQDlhJKBsEPOl1GDORuJNs6UjTn8J0="
+username: nebula
+password: nebula
